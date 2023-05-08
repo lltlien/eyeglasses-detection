@@ -19,4 +19,4 @@
 * **Mã môn học:** CS231
 * **Mã lớp:** CS231.N21.KHTN
 * **Năm học:** HK2 (2022 - 2023)
-* **Giảng viên**: TS.Mai Tiễn Dũng
+* **Giảng viên**: TS.Mai Tiến Dũng
